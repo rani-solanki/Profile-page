@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar {
+    background-color: #1619d4;
+    height: 4rem;
+}
+
+.landing {
+    background: url('./imges/images.jpeg')no-repeat center center/cover;
+    height: 100vh;
+    width: 100%;
+    opacity: 1;
+}
+
+.landing-inner{
+  color: rgb(15, 15, 15);
+  height: 100%;
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.p{
+  content-visibility: 50px;
+}
+
+
+
+
