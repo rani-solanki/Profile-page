@@ -36,9 +36,14 @@
     transform: rotate(360deg);
   }
 }
-
+h1{
+  margin: 0%;
+  padding: 1rem;
+  
+}
 .navbar {
-    background-color: #1619d4;
+  margin: 0;
+    background-color: rgb(162, 163, 197, 0.9);
     height: 4rem;
 }
 
